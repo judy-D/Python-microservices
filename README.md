@@ -12,8 +12,8 @@ Then to main (Flask)
 
 >docker-compose up
 
+Note: the react-frontend is separated in another repo.
 
-Note: the react-frontend is seperated in another repo.
 
 
 
